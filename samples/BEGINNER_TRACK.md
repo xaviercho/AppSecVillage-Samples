@@ -1,4 +1,4 @@
 # Beginner track
 
-![Alt text](https://github.com/miguelluiscorreia/AppSec-samples/blob/master/samples/images/java_beginner.png?raw=true)
+![Alt text](https://raw.githubusercontent.com/miguelluiscorreia/AppSec-samples/main/samples/images/java_beginner.png)
 
